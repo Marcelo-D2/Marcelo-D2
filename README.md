@@ -25,9 +25,12 @@
     <a href = "https://www.instagram.com/marcelo_js_si/">
       <img width="30" src="instagram.svg">
     </a>
+  
+  ![Snake animation](https://github.com/Marcelo-D2/Marcelo-D2/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-![Snake animation](https://github.com/Marcelo-D2/Marcelo-D2/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **Marcelo-D2/Marcelo-D2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

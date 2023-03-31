@@ -23,7 +23,7 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/marcelo_js_si/">
-      <img width="25" src="instagram.png">
+      <img width="30" src="instagram.svg">
     </a>
 </div>
 

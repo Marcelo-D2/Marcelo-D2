@@ -25,10 +25,15 @@
     <a href = "https://www.instagram.com/marcelo_js_si/">
       <img width="30" src="instagram.svg">
     </a>
-  
-  ![Snake animation](https://github.com/Marcelo-D2/Marcelo-D2/blob/output/github-contribution-grid-snake.svg)
-  
+</div> 
+<div align="center">
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+<div align="center">
 
 
 
